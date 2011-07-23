@@ -22,4 +22,4 @@ This template includes:
 [yard]: https://github.com/lsegal/yard
 
 
-Credit for the template goes to [code for america]: https://github.com/codeforamerica/gem_template
+Credit for the template goes to: https://github.com/codeforamerica/gem_template
